@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using DistanceB2U.Services;
 
 namespace DistanceB2U
 {
@@ -25,6 +26,7 @@ namespace DistanceB2U
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddTransient<IUserService, UserService>();
             services.AddControllers();
         }
 

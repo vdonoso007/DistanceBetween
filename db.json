@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "user": "userA",
+      "following": [ "userB", "userD", "userE", "userG" ]
+    },
+    {
+      "user": "userB",
+      "following": [ "userC", "userJ", "userI", "userE" ]
+    },
+    {
+      "user": "userC",
+      "following": [ "userM", "userN", "userJ", "userI", "userE" ]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
