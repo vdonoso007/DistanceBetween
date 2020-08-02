@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using DistanceB2U.Services;
+using DistanceB2U.Models;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -22,10 +23,9 @@ namespace DistanceB2U.Controllers
     }
 
     [HttpGet]
-    public IActionResult Index()
+    public IEnumerable<UserModel> Index()
     {
-      _userService.getUserInformation2();
-      return View();
+      return _userService.getUserInformation();
     }
   }
 }

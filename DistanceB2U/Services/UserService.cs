@@ -2,40 +2,29 @@ using System;
 using DistanceB2U.Models;
 using RestSharp;
 using Microsoft.AspNetCore.Hosting;
+using System.Collections.Generic;
 
 namespace DistanceB2U.Services
 {
   public class UserService : IUserService
   {
-    public UserService()
-    {
+    public UserService(){}
 
-    }
-
-    public void getUserInformation2()
+    public IList<UserModel> getUserInformation()
     {
+      IList<UserModel> res = new List<UserModel>();
       var client = new RestClient(Environment.GetEnvironmentVariable("BASE_ENDPOINT"));
       var request = new RestRequest("users", Method.GET);
       var response = client.Execute(request);
-
-
-      
-    }
-
-    public UserModel getUserInformation()
-    {
-      var client = new RestClient(Environment.GetEnvironmentVariable("BASE_ENDPOINT"));
-      var request = new RestRequest("users", Method.GET);
-      var response = client.Execute(request);
-
-
-      throw new NotImplementedException();
+      var data = response.Content;
+      IList<UserModel> list = SimpleJson.DeserializeObject<IList<UserModel>>(data);
+      return list;
     }
   }
 
   public interface IUserService
   {
-    public UserModel getUserInformation();
-    public void getUserInformation2();
+    public IList<UserModel> getUserInformation();
+    /*public IList<UserModel> getUserInformation();*/
   }
 }

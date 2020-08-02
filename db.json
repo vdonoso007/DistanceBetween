@@ -1,15 +1,15 @@
 {
   "users": [
     {
-      "user": "userA",
+      "id": "userA",
       "following": [ "userB", "userD", "userE", "userG" ]
     },
     {
-      "user": "userB",
+      "id": "userB",
       "following": [ "userC", "userJ", "userI", "userE" ]
     },
     {
-      "user": "userC",
+      "id": "userC",
       "following": [ "userM", "userN", "userJ", "userI", "userE" ]
     }
   ],
