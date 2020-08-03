@@ -7,7 +7,7 @@ namespace DistanceB2U.Models
   {
     public UserModel()
     { }
-    public string user { get; set; }
+    public string id { get; set; }
     public IEnumerable<string> following { get; set; }
   }
 }

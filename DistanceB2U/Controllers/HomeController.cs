@@ -11,7 +11,6 @@ using DistanceB2U.Models;
 namespace DistanceB2U.Controllers
 {
   [ApiController]
-  [Route("[controller]")]
   public class HomeController : Controller
   {
 
@@ -23,9 +22,26 @@ namespace DistanceB2U.Controllers
     }
 
     [HttpGet]
+    [Route("[controller]/users")]
     public IEnumerable<UserModel> Index()
     {
-      return _userService.getUserInformation();
+      return _userService.getUsers();
     }
+
+    [HttpGet]
+    [Route("[controller]/user/{Id}")]
+    public UserModel getUser(string Id)
+    {
+      return _userService.getUserInformation(Id);
+    }
+
+    [HttpGet]
+    [Route("[controller]/users/distance/between/{userFrom}/{userTo}")]
+    public int getDistanceBetween(string userFrom, string userTo)
+    {
+      return  _userService.getDistanceBetweenFromTo(userFrom, userTo);
+    }
+
+
   }
 }
