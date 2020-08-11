@@ -56,22 +56,6 @@
         {
           "code": "blanco",
           "hexcode": "#fff"
-        },
-        {
-          "code": "negro",
-          "hexcode": "#000"
-        },
-        {
-          "code": "azul",
-          "hexcode": "#0000ff"
-        },
-        {
-          "code": "amarillo",
-          "hexcode": "#ffff00"
-        },
-        {
-          "code": "gris",
-          "hexcode": "#808080"
         }
       ],
       "price": 12.5,
@@ -162,22 +146,6 @@
         {
           "code": "blanco",
           "hexcode": "#fff"
-        },
-        {
-          "code": "negro",
-          "hexcode": "#000"
-        },
-        {
-          "code": "azul",
-          "hexcode": "#0000ff"
-        },
-        {
-          "code": "amarillo",
-          "hexcode": "#ffff00"
-        },
-        {
-          "code": "gris",
-          "hexcode": "#808080"
         }
       ],
       "price": 12.5,
@@ -268,22 +236,6 @@
         {
           "code": "blanco",
           "hexcode": "#fff"
-        },
-        {
-          "code": "negro",
-          "hexcode": "#000"
-        },
-        {
-          "code": "azul",
-          "hexcode": "#0000ff"
-        },
-        {
-          "code": "amarillo",
-          "hexcode": "#ffff00"
-        },
-        {
-          "code": "gris",
-          "hexcode": "#808080"
         }
       ],
       "price": 12.5,
@@ -374,22 +326,6 @@
         {
           "code": "blanco",
           "hexcode": "#fff"
-        },
-        {
-          "code": "negro",
-          "hexcode": "#000"
-        },
-        {
-          "code": "azul",
-          "hexcode": "#0000ff"
-        },
-        {
-          "code": "amarillo",
-          "hexcode": "#ffff00"
-        },
-        {
-          "code": "gris",
-          "hexcode": "#808080"
         }
       ],
       "price": 12.5,
