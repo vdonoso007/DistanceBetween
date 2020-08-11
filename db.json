@@ -388,14 +388,6 @@
         {
           "code": "deepOrange",
           "hexcode": "#12D0F0"
-        },
-        {
-          "code": "rojo",
-          "hexcode": "#ff0000"
-        },
-        {
-          "code": "blanco",
-          "hexcode": "#fff"
         }
       ],
       "price": 22.57,
