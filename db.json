@@ -76,13 +76,8 @@
       "photos": [
         {
           "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
-          "name": "foto1.png",
-          "path": "/assets/photos/"
-        },
-        {
-          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
-          "name": "foto2.png",
-          "path": "/assets/photos/"
+          "name": "4a.png",
+          "path": "http://localhost/uploads/4a.jpg"
         }
       ],
       "availabledContactMethods": [
@@ -167,12 +162,7 @@
         {
           "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
           "name": "foto1.png",
-          "path": "/assets/photos/"
-        },
-        {
-          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
-          "name": "foto2.png",
-          "path": "/assets/photos/"
+          "path": "http://localhost/uploads/4b.jpg"
         }
       ],
       "availabledContactMethods": [
@@ -257,12 +247,7 @@
         {
           "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
           "name": "foto1.png",
-          "path": "/assets/photos/"
-        },
-        {
-          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
-          "name": "foto2.png",
-          "path": "/assets/photos/"
+          "path": "http://localhost/uploads/4c.jpg"
         }
       ],
       "availabledContactMethods": [
@@ -347,12 +332,7 @@
         {
           "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
           "name": "foto1.png",
-          "path": "/assets/photos/"
-        },
-        {
-          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
-          "name": "foto2.png",
-          "path": "/assets/photos/"
+          "path": "http://localhost/uploads/4d.jpg"
         }
       ],
       "availabledContactMethods": [
