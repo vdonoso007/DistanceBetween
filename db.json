@@ -353,6 +353,91 @@
         "code": "active",
         "description": "Active status of Product"
       }
+    },
+    {
+      "id": "b3cefc30-dbec-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "used",
+        "title": "Usado"
+      },
+      "colors": [
+        {
+          "code": "deepOrange",
+          "hexcode": "#12D0F0"
+        },
+        {
+          "code": "rojo",
+          "hexcode": "#ff0000"
+        },
+        {
+          "code": "blanco",
+          "hexcode": "#fff"
+        }
+      ],
+      "price": 22.57,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "http://localhost/uploads/4d.jpg"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
     }
   ],
   "profile": {
