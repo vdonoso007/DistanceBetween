@@ -13,6 +13,1448 @@
       "following": [ "userM", "userN", "userJ", "userI", "userE" ]
     }
   ],
+  "products": [
+    {
+      "id": "a3d4877d-4997-4f9f-be70-df712f4a8763",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "used",
+        "title": "Usado"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 12.5,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "41890bd8-dbd4-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "new",
+        "title": "Nuevo"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 12.5,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "6caee0ee-dbd4-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "used",
+        "title": "Usado"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 2.3,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "9a39b23c-dbd4-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "new",
+        "title": "Nuevo"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 7.35,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "ccbda362-dbd4-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "used",
+        "title": "Usado"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 24.5,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "fa795814-dbd4-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "used",
+        "title": "Usado"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 12.5,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "1127bed4-dbd5-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "used",
+        "title": "Usado"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 4.25,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "2952b4c8-dbd5-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "used",
+        "title": "Usado"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 12.5,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "395879f2-dbd5-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "used",
+        "title": "Usado"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 12.5,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "4b2befa6-dbd5-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "used",
+        "title": "Usado"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 12.5,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "59c78cbe-dbd5-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "used",
+        "title": "Usado"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 12.5,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "63d3f65c-dbd5-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "used",
+        "title": "Usado"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 12.5,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "6ea4a0ae-dbd5-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "used",
+        "title": "Usado"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 12.5,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "7fe6ed36-dbd5-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "used",
+        "title": "Usado"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 12.5,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "bb861358-dbd5-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "new",
+        "title": "Nuevo"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 5.75,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "da1ed282-dbd5-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "new",
+        "title": "Nuevo"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 15.78,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "fcecf866-dbd5-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "new",
+        "title": "Nuevo"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 8.24,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    },
+    {
+      "id": "185b81b2-dbd6-11ea-87d0-0242ac130003",
+      "information": {
+        "title": "Mesa para salón",
+        "description": "Mesa de salón para 5 comensales estilo muy minimalista"
+      },
+      "categories": [
+        {
+          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
+          "name": "Salon"
+        },
+        {
+          "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
+          "name": "Mesas"
+        }
+      ],
+      "tags": [
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "mesa"
+        },
+        {
+          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
+          "name": "salon"
+        }
+      ],
+      "condition": {
+        "code": "new",
+        "title": "Nuevo"
+      },
+      "color": {
+        "code": "deepOrange",
+        "hexcode": "#12D0F0"
+      },
+      "price": 17.19,
+      "saleStatus": {
+        "code": "availabled",
+        "name": "Disponible"
+      },
+      "location": {
+        "countryCode": "ES",
+        "country": "España",
+        "city": "Madrid",
+        "address": "Av. Agustin Freire",
+        "points": {
+          "lat": -1.0235487,
+          "lng": -0.012457
+        }
+      },
+      "photos": [
+        {
+          "id": "3b423444-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto1.png",
+          "path": "/assets/photos/"
+        },
+        {
+          "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
+          "name": "foto2.png",
+          "path": "/assets/photos/"
+        }
+      ],
+      "availabledContactMethods": [
+        {
+          "type": "email",
+          "value": "mimail@mail.com"
+        },
+        {
+          "type": "telefonica",
+          "value": "900 400 922"
+        }
+      ],
+      "deliveryPreference": {
+        "code": "pickup",
+        "title": "Recogida"
+      },
+      "status": {
+        "code": "active",
+        "description": "Active status of Product"
+      }
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
