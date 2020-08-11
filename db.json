@@ -22,10 +22,6 @@
       },
       "categories": [
         {
-          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
-          "name": "Salon"
-        },
-        {
           "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
           "name": "Mesas"
         }
@@ -362,10 +358,6 @@
       },
       "categories": [
         {
-          "id": "e7575524-d275-4d06-bcc0-2cef4a47c767",
-          "name": "Salon"
-        },
-        {
           "id": "b7d00001-d7c0-4011-9f56-e72142ffb76f",
           "name": "Mesas"
         }
@@ -374,10 +366,6 @@
         {
           "id": "3b47ab44-d30e-4258-85b6-29468ad2eda0",
           "name": "mesa"
-        },
-        {
-          "id": "f6ef4cd9-ec3b-4782-abce-62da8674a968",
-          "name": "salon"
         }
       ],
       "condition": {
